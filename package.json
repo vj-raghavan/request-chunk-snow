@@ -1,0 +1,26 @@
+{
+  "name": "request-chunk-snow",
+  "version": "0.0.0",
+  "description": "Sample project to create a simple request to service now.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vj-raghavan/request-chunk-snow.git"
+  },
+  "keywords": [
+    "request",
+    "http"
+  ],
+  "author": "Vijayaraghavan Raman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vj-raghavan/request-chunk-snow/issues"
+  },
+  "dependencies": {
+    "request": "~2.40.0"
+  },
+  "homepage": "https://github.com/vj-raghavan/request-chunk-snow"
+}
